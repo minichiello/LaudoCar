@@ -13,7 +13,7 @@
 
 ## 🎥 Entrega do Projeto
 
-> **Vídeo-pitch:** [https://youtu.be/80000000000](https://youtu.be/80000000000)
+> **Vídeo-pitch:** [https://youtu.be/F7ZxB0--q2M](https://youtu.be/F7ZxB0--q2M)
 
 > **Slides:** [https://raw.githubusercontent.com/minichiello/LaudoCar/refs/heads/main/slides/LaudoCar.pdf](https://raw.githubusercontent.com/minichiello/LaudoCar/refs/heads/main/slides/LaudoCar.pdf)
 ---
