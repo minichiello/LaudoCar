@@ -15,7 +15,7 @@
 
 > **Vídeo-pitch:** [https://youtu.be/80000000000](https://youtu.be/80000000000)
 
-> **Slides:** [https://youtu.be/80000000000](https://youtu.be/80000000000)
+> **Slides:** [https://raw.githubusercontent.com/minichiello/LaudoCar/refs/heads/main/slides/LaudoCar.pdf](https://raw.githubusercontent.com/minichiello/LaudoCar/refs/heads/main/slides/LaudoCar.pdf)
 ---
 
 ## 📋 Sobre o Projeto
