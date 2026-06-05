@@ -13,6 +13,8 @@
 
 ## 🎥 Entrega do Projeto
 
+> **Site:** [https://laudocar-opal.vercel.app](https://laudocar-opal.vercel.app)
+
 > **Vídeo-pitch:** [https://youtu.be/F7ZxB0--q2M](https://youtu.be/F7ZxB0--q2M)
 
 > **Slides:** [https://raw.githubusercontent.com/minichiello/LaudoCar/refs/heads/main/slides/LaudoCar.pdf](https://raw.githubusercontent.com/minichiello/LaudoCar/refs/heads/main/slides/LaudoCar.pdf)
