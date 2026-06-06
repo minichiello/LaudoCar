@@ -15,7 +15,7 @@
 
 > **Site:** [https://laudocar-opal.vercel.app](https://laudocar-opal.vercel.app)
 
-> **Vídeo-pitch:** [https://youtu.be/F7ZxB0--q2M](https://youtu.be/F7ZxB0--q2M)
+> **Vídeo-pitch:** [https://youtu.be/-1CZY0nqZ7U](https://youtu.be/-1CZY0nqZ7U)
 
 > **Slides:** [https://raw.githubusercontent.com/minichiello/LaudoCar/refs/heads/main/slides/LaudoCar.pdf](https://raw.githubusercontent.com/minichiello/LaudoCar/refs/heads/main/slides/LaudoCar.pdf)
 ---
@@ -443,6 +443,6 @@ Este projeto utilizou o Claude como assistente de IA generativa para apoiar o de
 
 ---
 
-### Equipe
+## 🙋 Equipe
 
-Gerson Minichiello
+Taurus - Gerson Minichiello
